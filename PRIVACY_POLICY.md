@@ -1,16 +1,5 @@
 # ManifestMojo Privacy Policy
 
-This repository contains the public privacy policy for **ManifestMojo** (iOS), by SudarshanTechLabs.
-
-- Privacy policy: [PRIVACY_POLICY.md](PRIVACY_POLICY.md)
-- Web version: https://sudarshanchaudhari.github.io/manifestmojo-ios-privacy-policy/
-- Main app repository: https://github.com/SUDARSHANCHAUDHARI/ManifestMojoIOS
-- Contact: sunny.sudarshan@gmail.com
-
----
-
-# ManifestMojo Privacy Policy
-
 **Effective Date:** July 5, 2026
 _Last updated: July 5, 2026_
 **Version:** 1.0.0
